@@ -1,0 +1,36 @@
+{
+  "name": "wide-world",
+  "version": "1.0.0",
+  "description": "NSS front-end exercise",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CourtneyBrothers/wide-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CourtneyBrothers/wide-world/issues"
+  },
+  "homepage": "https://github.com/CourtneyBrothers/wide-world#readme",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "builder": "^3.2.3",
+    "sass": "^1.0.0-beta.4"
+  },
+  "devDependencies": {
+    "angular-route": "^1.6.8",
+    "grunt": "^1.0.1",
+    "grunt-angular-builder": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "matchdep": "^2.0.0"
+  }
+}
